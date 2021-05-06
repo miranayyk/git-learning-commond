@@ -1,0 +1,3 @@
+git branch -M main
+git push --no-verify backup master
+git push --no-verify origin main
